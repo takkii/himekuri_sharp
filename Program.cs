@@ -27,7 +27,8 @@ namespace ConsoleApp
                 const string next_year = "来年の1月1日まであと：";
                 const string message = "日です";
                 
-                Thread.CurrentThread.CurrentCulture = new CultureInfo("en-US");
+                // 曜日を日本語化
+                Thread.CurrentThread.CurrentCulture = new CultureInfo("ja-JP");
 
                 // 計算
                 var reiwa = (reiwa_kanji + (dt.Year - 2018) + OneYear + dt.Month + OneMonth + dt.Day + Onedays);
@@ -40,7 +41,7 @@ namespace ConsoleApp
 
                 // 参照先
                 var nengo = (dt.Year + OneYear + dt.Month + OneMonth + dt.Day + Onedays + koron + dt.Hour + OneHour + dt.Minute + OneMinutes +
-                             dt.Second + OneMinutes + " : " + dt.ToString("dddd", new CultureInfo("ja-JP")));
+                             dt.Second + OneMinutes + " : " + dt.ToString("dddd"));
                 var hagoita = reiwa + " : " + reiwa2;
                 var oshogatsu = next_year + (gantan - 1) + message ;
 
