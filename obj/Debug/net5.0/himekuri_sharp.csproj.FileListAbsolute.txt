@@ -1,0 +1,15 @@
+/Users/takkii/GitHub/public/himekuri_sharp/bin/Debug/net5.0/himekuri_sharp.deps.json
+/Users/takkii/GitHub/public/himekuri_sharp/bin/Debug/net5.0/himekuri_sharp.runtimeconfig.json
+/Users/takkii/GitHub/public/himekuri_sharp/bin/Debug/net5.0/himekuri_sharp.runtimeconfig.dev.json
+/Users/takkii/GitHub/public/himekuri_sharp/bin/Debug/net5.0/himekuri_sharp.dll
+/Users/takkii/GitHub/public/himekuri_sharp/bin/Debug/net5.0/ref/himekuri_sharp.dll
+/Users/takkii/GitHub/public/himekuri_sharp/bin/Debug/net5.0/himekuri_sharp.pdb
+/Users/takkii/GitHub/public/himekuri_sharp/obj/Debug/net5.0/himekuri_sharp.csprojAssemblyReference.cache
+/Users/takkii/GitHub/public/himekuri_sharp/obj/Debug/net5.0/himekuri_sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/takkii/GitHub/public/himekuri_sharp/obj/Debug/net5.0/himekuri_sharp.AssemblyInfoInputs.cache
+/Users/takkii/GitHub/public/himekuri_sharp/obj/Debug/net5.0/himekuri_sharp.AssemblyInfo.cs
+/Users/takkii/GitHub/public/himekuri_sharp/obj/Debug/net5.0/himekuri_sharp.csproj.CoreCompileInputs.cache
+/Users/takkii/GitHub/public/himekuri_sharp/obj/Debug/net5.0/himekuri_sharp.dll
+/Users/takkii/GitHub/public/himekuri_sharp/obj/Debug/net5.0/ref/himekuri_sharp.dll
+/Users/takkii/GitHub/public/himekuri_sharp/obj/Debug/net5.0/himekuri_sharp.pdb
+/Users/takkii/GitHub/public/himekuri_sharp/obj/Debug/net5.0/himekuri_sharp.genruntimeconfig.cache
