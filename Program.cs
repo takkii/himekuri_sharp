@@ -26,7 +26,7 @@ namespace ConsoleApp
                 const string koron = " : ";
                 const string next_year = "来年の1月1日まであと：";
                 const string message = "日です";
-                
+
                 // 曜日を日本語化
                 Thread.CurrentThread.CurrentCulture = new CultureInfo("ja-JP");
 
@@ -43,7 +43,7 @@ namespace ConsoleApp
                 var nengo = (dt.Year + OneYear + dt.Month + OneMonth + dt.Day + Onedays + koron + dt.Hour + OneHour + dt.Minute + OneMinutes +
                              dt.Second + OneMinutes + " : " + dt.ToString("dddd"));
                 var hagoita = reiwa + " : " + reiwa2;
-                var oshogatsu = next_year + (gantan - 1) + message ;
+                var oshogatsu = next_year + (gantan - 1) + message;
 
                 // 安定ソート
                 var takoage = new[]
@@ -54,7 +54,7 @@ namespace ConsoleApp
                 };
 
                 var orderByList = takoage.OrderBy(x => x);
-                foreach (var x in orderByList )
+                foreach (var x in orderByList)
                 {
                     Console.WriteLine(x);
                 }
